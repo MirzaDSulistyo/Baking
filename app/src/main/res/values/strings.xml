@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Baking</string>
+
+    <string name="recipe_text_view_hint">Cupcake</string>
+    <string name="step_quantity_hint">40</string>
+    <string name="step_measure_hint">UNIT</string>
+
+    <string name="text_view_ingredients">Ingredients :</string>
+    <string name="text_view_steps">Steps :</string>
+
+    <string name="parcel_recipe">PARCEL_RECIPE</string>
+    <string name="parcel_step">PARCEL_STEP</string>
+
+    <string name="is_tablet">IS_TABLET</string>
+
+    <string name="selected_position">SELECTED_POSITION</string>
+
+    <string name="saved_layout_manager_ingredient">SAVED_LAYOUT_MANAGER_INGREDIENT</string>
+    <string name="saved_layout_manager_step">SAVED_LAYOUT_MANAGER_STEP</string>
+
+    <string name="error_need_internet">This application needs Internet connection to function.</string>
+    <string name="appwidget_text">RECIPE INGREDIENTS WILL APPEAR HERE AFTER LAUNCHING &quot;BAKING APP&quot;</string>
+    <string name="add_widget">Add widget</string>
+</resources>
